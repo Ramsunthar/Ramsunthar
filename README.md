@@ -30,7 +30,7 @@ I’m Ram (Ramsunthar), a software engineer who likes building backend systems t
 ### 📊 Stats
 ## 📊 GitHub stats
 
-![Ramsunthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsunthar&show_icons=true)
+![Ramsunthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsunthar&show_icons=true&cache_seconds=21600)
 
 #
 <!--
