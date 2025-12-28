@@ -21,11 +21,16 @@ I’m Ram (Ramsunthar), a software engineer who likes building backend systems t
 - [Design patterns part 1 — Singleton pattern](https://medium.com/nerd-for-tech/design-patterns-part-1-singleton-pattern-2eca51192757?source=rss-939c04bf8a50------2)
 - [Modern Javascript](https://medium.com/nerd-for-tech/modern-javascript-a5c7dd9c2b07?source=rss-939c04bf8a50------2)
 <!-- BLOG-POST-LIST:END -->
+➡️ **See more posts on Medium:** [medium.com/@ramsunthar](https://medium.com/@ramsunthar) 
+
+
 ---
 
 
 ### 📊 Stats
+## 📊 GitHub stats
 
+![Ramsunthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsunthar&show_icons=true)
 
 #
 <!--
