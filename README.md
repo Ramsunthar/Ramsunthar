@@ -19,7 +19,7 @@ I’m Ram (Ramsunthar), a software engineer who likes building backend systems t
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for Microservices](https://ramsunthar.medium.com/best-practices-for-microservices-f0addc7cd73a?source=rss-939c04bf8a50------2)
+- [Best Practices for Microservices](https://medium.com/codex/best-practices-for-microservices-f0addc7cd73a?source=rss-939c04bf8a50------2)
 - [Introduction to Microservices](https://ramsunthar.medium.com/introduction-to-microservices-b2ad650832a?source=rss-939c04bf8a50------2)
 - [Container-less Application](https://ramsunthar.medium.com/container-less-application-e602b9a49b27?source=rss-939c04bf8a50------2)
 - [Introduction to Container-based Development](https://ramsunthar.medium.com/introduction-to-container-based-development-39b080d6535a?source=rss-939c04bf8a50------2)
